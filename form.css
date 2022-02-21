@@ -1,0 +1,39 @@
+.infor{
+    background-image: url(R\ \(9\).jpg);
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    padding-top: 120px;
+    
+    
+}
+input{
+    margin-bottom: 12px;
+    padding: 7px 12px;
+    box-shadow: none;
+    outline: none;
+}
+p{
+    font-size: 15px;
+}
+.iddd{
+    background-color: rgba(214, 214, 206, 0.096);
+    padding: 30px 30px;
+    height: 400px;
+}
+.maun{
+    background-color: rgb(47, 78, 163);
+    width: 190px;
+    height: 40px
+}
+.fb{
+    width: 90px ;
+    height: 40px;
+    background-color:blue;
+}
+.ins{
+    width: 90px ;
+    height: 40px;
+    background-color: pink;
+
+}
